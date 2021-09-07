@@ -22,5 +22,5 @@ bot.on('message', message => {
 });
 
 
-//bot.login('ODczOTM0NjI5NjcxOTYwNjM3.YQ_pDA.5BGCo9WzPeEXMvsqc1kxCnMkLKA');
+//bot.login('BOT TOKEN');
 bot.login(process.env.token)
